@@ -1,0 +1,2 @@
+runtime: python37
+entrypoint: uvicorn -b :$PORT main:app
